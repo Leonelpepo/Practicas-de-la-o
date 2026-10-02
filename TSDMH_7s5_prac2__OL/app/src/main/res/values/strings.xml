@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">TSDMH_7s5_prac2</string>
+    <string name="Titulo">Splash Screen</string>
+    <string name="Mensaje">Espere 5 segundos para el cambio de pantalla</string>
+</resources>

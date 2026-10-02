@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TSDMH</string>
+    <string name="Titulo"> Splash Screen</string>
+    <string name="Actividad">Espere 5 segundos para cambiar de pantalla</string>
+    <string name="Titulo2">Menu de Opciones</string>
+    <string name="p2nombre">Ingresa tu nombre</string>
+    <string name="p2h1nombre">Aqui tu nombre</string>
+    <string name="p2btSaluda">Botton</string>
+</resources>

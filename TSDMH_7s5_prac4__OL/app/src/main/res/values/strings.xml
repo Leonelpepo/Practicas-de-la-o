@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">TSDMH_7s5_Prac4_adri123</string>
+    <string name="p1titulo">Envio de Prametros entre actividades</string>
+    <string name="p1lbl1">Ingrese sus Nombre</string>
+    <string name="p1h1">Aqui tu nombre</string>
+    <string name="p1bt1">Enviar Datos</string>
+    <string name="p1bt2">En Espera de Resultados</string>
+
+    // Parametros pantalla 2---------------------------------------------------------------------
+
+    <string name="p2titlo">Recepcion de Informacion</string>
+    <string name="p2lbl1">La informcacion proporcionada es </string>
+
+    // Prametros pantalla 3----------------------------------------------------------------------
+    <string name="p3titulo1">Regreso parametros</string>
+    <string name="p3lbl1">Recepcion de infomracion </string>
+    <string name="p3btn1">Regreso Estatus</string>
+    <string name="p3btn2">Cancelarlo</string>
+    
+</resources>

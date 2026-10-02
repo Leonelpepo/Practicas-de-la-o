@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TSDMH_7s5_prac3_adriel</string>
+    <string name="p1titulo">Ingreso de datos</string>
+    <string name="p1nombre">Ingresa tu nombre</string>
+    <string name="p2Edad">Ingresa tu edad</string>
+    <string name="p1h1Nombre">Aqui tu nombre</string>
+    <string name="ph1Edad">Edad</string>
+    <string name="p1btn1">Saluda</string>
+    <string name="dialogook">Aceptar</string>
+
+</resources>
